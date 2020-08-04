@@ -1,6 +1,6 @@
 ### Aiya 👋
 
-## 
+### About me
 - :heart: Formal methods, functional programming, math, Doctor Who
 - 🔭 I’m currently working on my master's thesis: Effectful component-based programming: the case of time	
 - 🌱 I’m currently learning Go, category theory, and effect systems
@@ -12,7 +12,9 @@
 [<img align="left" alt="herulume | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
+---
 ![herulume's github stats](https://github-readme-stats.vercel.app/api?username=herulume&count_private=true&show_icons=true)
 
 
