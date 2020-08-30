@@ -42,8 +42,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-![herulume's github stats](https://github-readme-stats.vercel.app/api?username=herulume&count_private=true&show_icons=true)
-
 
 [twitter]: https://twitter.com/herulume
 [linkedin]: https://linkedin.com/in/herulume
