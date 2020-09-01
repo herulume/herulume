@@ -1,4 +1,4 @@
-### Aiya 👋
+### Aiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
 - :heart: Formal methods, functional programming, math, Doctor Who
@@ -22,7 +22,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
     <img width="55%" align="right" alt="Herulume's github stats" src="https://github-readme-stats.vercel.app/api?username=herulume&show_icons=true&hide_border=true" />
-  
+
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
