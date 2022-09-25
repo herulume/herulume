@@ -1,10 +1,6 @@
-### Aiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### So....
 ### About me
-- :heart: Formal methods, functional programming, math, Doctor Who
-- 🔭 I’m currently working as a SRE and finishing my master's thesis: Effectful component-based programming: the case of time	
-- 🌱 I’m currently learning Go, anything SRE related, Agda, category theory, and effect systems
-- 💬 Ask me about anything really, no promises my answer will be useful 
+- Follow the white rabbit...or my twitter/linkedin.
 
 ### Connect with me:
 
