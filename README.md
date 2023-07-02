@@ -1,15 +1,13 @@
-### So....
+## So....
+
 ### About me
-- Follow the white rabbit...or my twitter/linkedin.
+InfoSec curious software developer with an academic background in formal methods.
+
+Slowly becoming a gymrat.
 
 ### Connect with me:
-
-[<img align="left" alt="herulume | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="herulume | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [Mostodon](https://hachyderm.io/@herulume)
+- [Blog](https://herulu.me/)
 
 <br />
 <br />
-
----
-[twitter]: https://twitter.com/herulume
-[linkedin]: https://linkedin.com/in/herulume
