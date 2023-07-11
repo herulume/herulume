@@ -7,7 +7,6 @@ Slowly becoming a gymrat.
 
 ### Connect with me:
 - [Mastodon](https://hachyderm.io/@herulume)
-- [Blog](https://herulu.me/)
 <a rel="me" href="https://hachyderm.io/@herulume">Mastodon</a>
 <br />
 <br />
